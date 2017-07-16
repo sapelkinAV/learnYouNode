@@ -1,0 +1,10 @@
+{
+  "name": "httpCollect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexander Sapelkin",
+  "license": "MIT",
+  "dependencies": {
+    "bl": "^1.2.1"
+  }
+}

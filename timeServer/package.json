@@ -1,0 +1,7 @@
+{
+  "name": "timeServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexander Sapelkin",
+  "license": "MIT"
+}

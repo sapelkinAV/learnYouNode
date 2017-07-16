@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "concat-stream": "^1.6.0"
+  }
+}

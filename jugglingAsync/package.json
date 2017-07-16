@@ -1,0 +1,11 @@
+{
+  "name": "jugglingAsync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexander Sapelkin",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bl": "^1.2.1"
+  }
+}
